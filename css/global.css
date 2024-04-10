@@ -17,3 +17,8 @@ h5,
 h6 {
   font-family: "Marcellus", serif;
 }
+
+img {
+    display:block;
+    width: 100%;
+}
