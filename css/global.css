@@ -18,7 +18,7 @@ h6 {
   font-family: "Marcellus", serif;
 }
 
-img {
+img, image {
     display:block;
     width: 100%;
 }
